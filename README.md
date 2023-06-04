@@ -129,8 +129,6 @@ You can deploy this application using render or gh-pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **Multiple tables**
 - [ ] **More complex queries**
 
