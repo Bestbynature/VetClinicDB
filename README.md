@@ -63,11 +63,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 VetClinicDB <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**VetClinicDB** is a robust and efficient GitHub repository that provides a complete and user-friendly solution for managing data related to animals, customers, and owners in a veterinary clinic. The repository serves as a centralized database system, empowering veterinary clinics to streamline their operations, enhance customer service, and maintain accurate records.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -210,15 +210,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/bestbynature)
+- Twitter: [@twitterhandle](https://twitter.com/Dammybest)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/damilareismailabestbynature/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,7 +254,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for the inspiration given towards this codebase.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
