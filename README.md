@@ -29,8 +29,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -167,8 +165,6 @@ I would like to thank Microverse for the inspiration given towards this codebase
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **After installing postgresql, how do i start the service before i even create the database?**
 
