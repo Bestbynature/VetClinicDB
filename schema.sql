@@ -12,3 +12,14 @@ CREATE TABLE animals(
     );
 
     ALTER TABLE animals add column species VARCHAR(20);
+
+-- foreign key branch
+ create table owners (id serial primary key, full_name varchar(30), age int);
+
+ create table species (id serial primary key, name varchar(20));
+
+ alter table animals drop column species;
+
+alter table animals add column species_id int references species(id);
+
+alter table animals add column owner_id int references owners(id);
