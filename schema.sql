@@ -23,3 +23,15 @@ CREATE TABLE animals(
 alter table animals add column species_id int references species(id);
 
 alter table animals add column owner_id int references owners(id);
+
+-- Many to many relationship
+create table vets (id serial primary key, name varchar(50), age int, date_of_graduation date);
+
+CREATE TABLE specializations ( specialization_id serial PRIMARY KEY, vet_id INT REFERENCES vets (id), species_id INT REFERENCES species (id));
+
+CREATE TABLE visits (
+    visit_id serial PRIMARY KEY,
+    vet_id INT REFERENCES vets (id),
+    animal_id INT REFERENCES animals (id),
+    visit_date date
+);
