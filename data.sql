@@ -66,3 +66,12 @@ INSERT INTO visits (vet_id, animal_id, visit_date) VALUES
 (2, 9, '2020-08-03'),
 (3, 10, '2020-05-24'),
 (1, 10, '2021-01-11');
+
+
+INSERT INTO visits (animal_id, vet_id, visit_date) SELECT * FROM (SELECT id FROM animals) animal_ids, (SELECT id FROM vets) vets_ids, generate_series('1980-01-01'::timestamp, '2021-01-01', '4 hours') visit_timestamp;
+
+insert into owners (full_name, email) select 'Owner ' || generate_series(1,2500000), 'owner_' || generate_series(1,2500000) || '@mail.com';
+
+-- to check the execution time of a query
+-- explain analyze SELECT COUNT(*) FROM visits where animal_id = 4;
+
