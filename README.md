@@ -117,6 +117,12 @@ You can deploy this application using render or gh-pages
 - Twitter: [@twitterhandle](https://twitter.com/Dammybest)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/damilareismailabestbynature/)
 
+👤 **Prince**
+
+- GitHub: [@prius2055](https://github.com/prius2055)
+- Twitter: [@prius2055](https://www.twitter.com/prius2055)
+- LinkedIn: [@prius2055](https://www.linkedin.com/prius2055)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
