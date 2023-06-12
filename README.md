@@ -109,13 +109,25 @@ You can deploy this application using render or gh-pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Damilare**
 
 - GitHub: [@githubhandle](https://github.com/bestbynature)
 - Twitter: [@twitterhandle](https://twitter.com/Dammybest)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/damilareismailabestbynature/)
+
+👤 **Prince**
+
+- GitHub: [@prius2055](https://github.com/prius2055)
+- Twitter: [@prius2055](https://www.twitter.com/prius2055)
+- LinkedIn: [@prius2055](https://www.linkedin.com/prius2055)
+
+👤 **Ouail Laarabi**
+
+- GitHub: [@Ouail-01](https://github.com/Ouail-01?tab=overview&from=2023-01-01&to=2023-01-02)
+- Twitter: [@Ouail_laarabi](https://twitter.com/Ouail_Laarabi)
+- LinkedIn: [Ouail Laarabi](https://www.linkedin.com/in/ouail-laarabi-53203b250/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -35,39 +35,6 @@ CREATE TABLE visits (
     animal_id INT REFERENCES animals (id),
     visit_date date
 );
--- begining of the performance optimization part
--- 1. Indexes
--- 2. Denormalization
--- 3. Partitioning
--- 4. Materialized views
--- 5. Query optimization
--- 6. Database sharding
--- 7. Database replication
--- 8. Database caching
--- 9. Database connection pooling
--- 10. Database load balancing
--- 11. Database failover
--- 12. Database backup
--- 13. Database recovery
--- 14. Database security
--- 15. Database monitoring
--- 16. Database logging
--- 17. Database auditing
--- 18. Database encryption
--- 19. Database compression
--- 20. Database archiving
--- 21. Database migration
--- 22. Database versioning
--- 23. Database testing
--- 24. Database deployment
--- 25. Database administration
--- 26. Database management
--- 27. Database design
--- 28. Database modeling
--- 29. Database normalization
--- 30. Database refactoring
--- 31. Database tuning
-
 
 alter table owners add column email varchar(120);
 
