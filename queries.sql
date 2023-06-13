@@ -146,7 +146,6 @@ GROUP BY a.name
 ORDER BY first_visit ASC
 LIMIT 1;
 
-
 SELECT a.name AS animal_name, v.visit_date, vt.name AS vet_name, vt.age AS vet_age
 FROM animals a
 JOIN visits v ON a.id = v.animal_id
@@ -157,14 +156,12 @@ WHERE v.visit_date = (
 )
 LIMIT 1;
 
-
 SELECT COUNT(*) AS num_visits
 FROM visits v
 JOIN vets vt ON v.vet_id = vt.id
 JOIN animals a ON v.animal_id = a.id
 JOIN specializations s ON vt.id = s.vet_id AND a.id = s.species_id
 WHERE s.species_id IS NULL;
-
 
 SELECT a.name, COUNT(*) AS num_visits
 FROM visits v
